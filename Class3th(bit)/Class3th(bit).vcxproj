@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7ce1dc92-d60d-4b92-a71a-be5b949eb63b}</ProjectGuid>
-    <RootNamespace>Class1thprintf</RootNamespace>
+    <ProjectGuid>{8c2ec256-7845-43f7-882f-d0a10d119981}</ProjectGuid>
+    <RootNamespace>Class3thbit</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Class1th(printf)</ProjectName>
+    <ProjectName>Class3th(Bit)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
