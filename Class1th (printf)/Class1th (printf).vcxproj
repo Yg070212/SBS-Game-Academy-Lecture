@@ -24,7 +24,7 @@
     <ProjectGuid>{7ce1dc92-d60d-4b92-a71a-be5b949eb63b}</ProjectGuid>
     <RootNamespace>Class1thprintf</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Class1th(printf)</ProjectName>
+    <ProjectName>Class1th (printf)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8060cdbc-7483-43c9-ba10-d6fccc4343a5}</ProjectGuid>
-    <RootNamespace>Classth4</RootNamespace>
+    <ProjectGuid>{3c00d5b5-a015-411c-995e-602703ad7bec}</ProjectGuid>
+    <RootNamespace>Class7thTypeConversion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Classth4 (Overflow &amp; Underflow)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
