@@ -2,7 +2,7 @@
 
 void main()
 {
-#pragma region MyRegion
+#pragma region 
 
 #pragma endregion
 
