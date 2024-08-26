@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0DB2C9EB-60A7-4612-973F-CBEE475BF1E8}|Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DB2C9EB-60A7-4612-973F-CBEE475BF1E8}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2D2792-D8CA-43D3-8709-679C7814D0EE}|..\\Class11th (Function)\\Class11th (Function).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Class11th (Function)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +28,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-09T11:12:47.842Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Class11th (Function)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class11th (Function)\\Source.c",
-              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Class11th (Function)\\Source.c",
-              "RelativeToolTip": "..\\Class11th (Function)\\Source.c",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAuwF0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-23T12:40:02.587Z",
               "EditorCaption": ""
             }
           ]
