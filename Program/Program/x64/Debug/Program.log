@@ -1,2 +1,4 @@
 ﻿  Source.c
+C:\Users\양현규\Desktop\겜프\Github\SBS-Game-Academy-Lecture\Program\Source.c(59,20): warning C4013: 'sqrt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\양현규\Desktop\겜프\Github\SBS-Game-Academy-Lecture\Program\Source.c(59,25): warning C4013: 'pow'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   Program.vcxproj -> C:\Users\양현규\Desktop\겜프\Github\SBS-Game-Academy-Lecture\Program\x64\Debug\Program.exe
