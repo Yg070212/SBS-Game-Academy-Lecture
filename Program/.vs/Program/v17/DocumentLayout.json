@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{0DB2C9EB-60A7-4612-973F-CBEE475BF1E8}|Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DB2C9EB-60A7-4612-973F-CBEE475BF1E8}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512CCC0F-53D5-4461-957F-8FF92A22CC32}|..\\Class18th (Double Pointer)\\Class18th (Double Pointer).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Class18th (Double Pointer)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +27,23 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAF0AAAAAAAAAAADgv3MAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-09T11:12:47.842Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Class18th (Double Pointer)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class18th (Double Pointer)\\Source.c",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\SBS-Game-Academy-Lecture\\Class18th (Double Pointer)\\Source.c",
+              "RelativeToolTip": "..\\Class18th (Double Pointer)\\Source.c",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAiwHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T12:42:10.146Z",
               "EditorCaption": ""
             }
           ]
